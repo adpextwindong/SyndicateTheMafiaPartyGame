@@ -11,6 +11,7 @@ Aidan
 Takumi
 
 Formal Game Description:
+
 -The game starts out with a blank console window
 -Each player is secretly assigned a role
 -Roles include Inspector, Nurse, Criminal, and Voodoo Doctor
